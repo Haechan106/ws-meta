@@ -6,3 +6,4 @@ dist/
 .venv/
 build/
 .DS_Store
+.cache/
