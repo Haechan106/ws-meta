@@ -8,3 +8,4 @@ build/
 .DS_Store
 .cache/
 coverage/
+.pytest_cache/
