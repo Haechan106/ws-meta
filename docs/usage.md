@@ -27,3 +27,4 @@ Notes and usage details for ws-meta.
 - clarify the setup steps
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
