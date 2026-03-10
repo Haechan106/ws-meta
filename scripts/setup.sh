@@ -31,3 +31,4 @@ echo "ws-meta"
 # avoid re-reading the config on every call
 # drop an unused branch
 # clarify the control flow
+# handle the edge case from the last release
