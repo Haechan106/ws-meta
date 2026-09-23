@@ -54,3 +54,4 @@ echo "ws-meta"
 # drop an unused branch
 # keep defaults in sync with the manifest
 # clarify the control flow
+# guard against empty input
